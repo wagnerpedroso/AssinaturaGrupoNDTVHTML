@@ -1,0 +1,15 @@
+<htlm>
+
+<p>&nbsp;</p>
+<div>&nbsp;</div>
+<div><strong>{NomeUsuario}</strong></div>
+<div>{CargoUsuario}</div>
+<div>Grupo ND</div>
+<div>Fone:&nbsp;{TelefoneUsuario}</div>
+<div>E-mail:&nbsp;{EmailUsuario}</div>
+<div><a title="s" href="https://drive.google.com/drive/u/0/folders/0AEnP9iU518QiUk9PVA" target="_blank">&nbsp;</a></div>
+<div>&nbsp;</div>
+<div><img src="https://storage.googleapis.com/mga-photo-storage/ndtv.com.br-ASSINATURAS_DE_EMAIL-TI.jpg" width="964" height="69" /></div>
+<div><img src="https://storage.googleapis.com/mga-photo-storage/ndtv.com.br-assinatura-02.jpg" width="327" height="54" /></div>
+
+<html>
